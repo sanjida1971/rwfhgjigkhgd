@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="avi" group-title="📺​📡​BANGLADESHI",Helpline:+8801912410410
-http://raw.githubusercontent.com/asfa411/free/main/Contract.mp4?@asfaiptv
-#EXTINF:0 tvg-id="ext" group-title="📺​📡​BANGLADESHI",test1
+#EXTINF:0 tvg-id="avi" group-title="📺​📡​BANGLADESHI",Helpline:01685014065
+https://raw.githubusercontent.com/ajalamin3132/MP4/main/Video_141138_220722.mp4
+#EXTINF:0 tvg-id="ext" group-title="📺​📡​BANGLADESHI", Akash Digital TV
 ------------------------------------
 #EXTINF:0 tvg-id="ext" group-title="📺​📡​BANGLADESHI",DBC NEWS 🇧🇩
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
