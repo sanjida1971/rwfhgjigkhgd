@@ -4521,3 +4521,120 @@ http://muzicbd.net/siteuploads/files/sfd16/7723/Dhoa-Fuad%20Ft.%20Imran-(MuzicBD
 #EXTINF:0 tvg-id="avi" group-title="🎵MUSIC​🎬​VIDEO",Agun-ZooEL Ft. Asif Akbar
 http://muzicbd.net/siteuploads/files/sfd16/7722/Agun-ZooEL%20Ft.%20Asif%20Akbar-(MuzicBD.Com).mp4
 
+#EXTM3U
+#EXTINF:0 tvg-id="tnt4" group-title="Russian TV-1",ТНТ4
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Russian TV-1",VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Russian TV-1",VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="vip-serial" group-title="Russian TV-1",VIP Serial
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="tv3" group-title="Russian TV-1",ТВ-3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:0 tvg-id="pyatnica" group-title="Russian TV-1",Пятница
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Russian TV-1",ТНТ HD
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Russian TV-1",TV1000 Action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ViasatTV1000Balkan.bg" group-title="Russian TV-1",TV 1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="Russian TV-1",Ren Tv
+https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Russian TV-1",К1
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:0 tvg-id="k1" group-title="Russian TV-1",К1
+http://109.68.40.69/life/k1_3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",К16 (Саров)
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",ПРНК
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",ACB TV (Черкесск)
+http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Ветта 24  (Пермь)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Сочи 24
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Ники ТВ
+http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
+#EXTINF:0 tvg-id="tpo" group-title="Russian TV-1",Белрос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:0 tvg-id="euro" group-title="Russian TV-1",Евроновости
+http://live2.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",РБК ТВ (Уфа)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",ТВК 24 (Красноярск)
+http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Мир белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:0 tvg-id="cctv" group-title="Russian TV-1",CGTN Русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Щёлковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:0 tvg-id="otv-odintsovo" group-title="Russian TV-1",ОТВ (Одинцово)
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Эхо ТВ 24 (Новоуральск)
+http://stream.novouralsk-news.ru/echotv24/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Башкортостан 24
+http://live.gtrk.tv/720/b24-720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Евразия (Орск)
+http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Дагестан
+http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Ингушетия
+http://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",11 канал (Пенза)
+http://85.234.33.64/stream/c11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Первый Ярославский
+http://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdlow.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Первый Псковский
+http://194.190.78.91/pskov/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Тверской проспект-регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Катунь 24 (Барнаул)
+https://live.katun24.ru:8082/katun/katun/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Аист ТВ
+http://141.101.205.134:8080/hls/tvaist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Свое ТВ (Ставрополь)
+http://live.stv24.tv:8080/svoetv/LQ_video.m3u8
+#EXTINF:0 tvg-id="astraxan24" group-title="Russian TV-1",Астрахань 24
+http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",12 канал (Омск)
+http://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",10 канал (Новокузнецк)
+http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Кузбасс 1
+http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Эфир ТВ (Казань)
+http://89.232.125.186/online_tv_Efir/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Татарстан 24
+http://89.232.125.186/online_tv_Tatarstan24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",ТНТ (Ленинск)
+http://83.166.243.97:8081/ltv1TNT/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Камчатка 1
+http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Russian TV-1",Звезда
+http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",БСТ (Уфа)
+http://bstvint.mediacdn.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",Салям ТВ (Уфа)
+http://bstvint.mediacdn.ru/cdn/salyam/playlist_sdhigh.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Russian TV-1",24 Украина
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",I-UA TV HD
+http://kie2.cdn.i-ua.tv/hlsme/iuatv_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",KRONEHIT HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="luxury" group-title="Russian TV-1",Luxury World
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Russian TV-1",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:0 tvg-id="Ocko.cz" group-title="Russian TV-1",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
